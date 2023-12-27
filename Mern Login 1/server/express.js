@@ -7,7 +7,7 @@ const UserModel = require("./userModel")
 
 const mongoose = require("mongoose");
 
-mongoose.connect("mongodb+srv://admin:kMcogUadxGW1HKme@cluster0.pr5l8do.mongodb.net/Data", {
+mongoose.connect("mongodb+srv://user:passwordcluster0.pr5l8do.mongodb.net/Data", {
     serverSelectionTimeoutMS: 25000,
 })
 
