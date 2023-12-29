@@ -15,11 +15,4 @@ This project implements a secure authentication and authorization system using t
   - Passes data between components using props.
   - Implements separate pages for login, registration, and a secure homepage.
 
-## Deployment
 
-This project is ready for deployment. Follow the steps below to deploy it on GitHub:
-
-1. **Clone Repository:**
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
