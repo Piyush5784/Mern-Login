@@ -16,3 +16,11 @@ This project implements a secure authentication and authorization system using t
   - Implements separate pages for login, registration, and a secure homepage.
 
 
+ **Clone Repository:**
+   ```bash
+   git clone https://github.com/Piyush5784/Mern-Login/tree/main
+   cd ...
+   npm run dev
+```
+  
+  
