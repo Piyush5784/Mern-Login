@@ -22,7 +22,7 @@ app.use((err, req, res) => {
     console.log("Something Went Wrong2")
 })
 
-mongoose.connect("mongodb+srv://admin:kMcogUadxGW1HKme@cluster0.pr5l8do.mongodb.net/Data").then(
+mongoose.connect("mongodb+srv://(your username):(your password)@cluster0.pr5l8do.mongodb.net/Data").then(
     app.listen(port, () => {
         console.log("Server is running")
     })
