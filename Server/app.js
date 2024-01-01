@@ -6,7 +6,9 @@ const cors = require("cors")
 
 const app = express();
 
-const port = 3002;
+const port = 3001;
+
+
 
 app.use(express.json())
 
@@ -26,6 +28,10 @@ mongoose.connect("mongodb+srv://admin:kMcogUadxGW1HKme@cluster0.pr5l8do.mongodb.
     app.listen(port, () => {
         console.log("Server is running")
     })
+
+
+
+
 
 ).catch(error => {
     console.log("Server Down" + error)
