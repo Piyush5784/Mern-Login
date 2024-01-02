@@ -1,3 +1,4 @@
+
 # MERN Authentication and Authorization
 
 ## Overview
@@ -20,6 +21,7 @@ This project implements a secure authentication and authorization system using t
    ```bash
    git clone https://github.com/Piyush5784/Mern-Login/tree/main
    cd ...
+   npm install
    npm run dev
 ```
   
